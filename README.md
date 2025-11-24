@@ -2,4 +2,4 @@
 
 本仓库为北京大学2025年可视计算与交互概论课程的作业代码和报告，*仅留作个人使用，若有侵权请联系删除*。
 
-作业框架见https://gitee.com/pku-vcl/vci-2025
+环境配置与要求见[Gitee](https://gitee.com/pku-vcl/vci-2025)
